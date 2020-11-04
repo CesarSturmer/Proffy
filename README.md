@@ -1,5 +1,8 @@
 
 
+
+
+
 [![Watch the video](https://imgur.com/5NooRgE.png)](https://www.loom.com/share/47584bb963d34e349094ffa1645251d3)
 
 
@@ -11,7 +14,7 @@ Este projeto foi idealizado pensando no 6 de agosto, onde se comemora o Dia Naci
 Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketseat.
 
 
-## Tecnologias
+🚀 ## Tecnologias
 
 -  React
 -  Node.js
@@ -21,7 +24,7 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketse
 -  SQlite
 
 
-## Como Executar
+⌨ ## Como Executar
 
 -   ### Pré-requisitos
     
