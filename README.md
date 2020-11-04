@@ -30,8 +30,7 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketse
 
 1.  Faça um clone do repositório:
 
--   git clone  https://github.com/marianaccn/proffy_nlw2.git
-
+-   git clone  https://github.com/CesarSturmer/Proffy.git
 2.  Executando a aplicação
 
 -   npm install
